@@ -7,7 +7,7 @@ Implemented Dropout, Batch Normalization and etc.
 - [ ] Add visualization tests
 - [ ] Cli to experiment to hyperparameters
 - [ ] Gradient Checking
-- [ ] Improvement to Dropout 
+- [ ] Fix Dropout (Make it into a layer) 
 - [ ] Normalize Weights every iteration [Experimental]
 - [ ] Early stop 
 - [ ] Sigmoid Layer
