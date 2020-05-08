@@ -4,10 +4,12 @@ Implemented Dropout, Batch Normalization and etc.
 
 
 ### Feature List
+- [ ] Add visualization tests
+- [ ] Cli to experiment to hyperparameters
 - [ ] Gradient Checking
 - [ ] Improvement to Dropout 
 - [ ] Normalize Weights every iteration [Experimental]
 - [ ] Early stop 
 - [ ] Sigmoid Layer
 - [ ] Softmax Layer
-- [ ] Cli to experiment to hyperparameters.
+
