@@ -10,3 +10,4 @@ Implemented Dropout, Batch Normalization and etc.
 - [ ] Early stop 
 - [ ] Sigmoid Layer
 - [ ] Softmax Layer
+- [ ] Cli to experiment to hyperparameters.
